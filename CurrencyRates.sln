@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyRatesModel", "CurrencyRatesModel\CurrencyRatesModel.csproj", "{72CD8116-6285-4751-944B-C22DCB46E412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyWindowsFormsUI", "CurrencyWindowsFormsUI\CurrencyWindowsFormsUI.csproj", "{9AB132BB-862C-4EFD-B1EE-05A69F7C12DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CD8116-6285-4751-944B-C22DCB46E412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CD8116-6285-4751-944B-C22DCB46E412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CD8116-6285-4751-944B-C22DCB46E412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CD8116-6285-4751-944B-C22DCB46E412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB132BB-862C-4EFD-B1EE-05A69F7C12DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB132BB-862C-4EFD-B1EE-05A69F7C12DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB132BB-862C-4EFD-B1EE-05A69F7C12DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB132BB-862C-4EFD-B1EE-05A69F7C12DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6B28CD6-4BB9-4146-9F46-8516F93AF54D}
+	EndGlobalSection
+EndGlobal
